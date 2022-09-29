@@ -5,7 +5,7 @@
     <p>
       We appreciate your time!
       If you have any questions, please email
-      <a href="mailto: gjhwatters@gmail.com">gjhwatters@gmail.com</a><br>
+      <a href="mailto: test@gmail.com">test@gmail.com</a><br>
                 <a href="index.php">HOME</a>.
 
     </p>
